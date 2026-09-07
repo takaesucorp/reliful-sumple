@@ -1,0 +1,8 @@
+interface:
+  display_name: "個別支援計画書作成"
+  short_description: "面談資料と聞き取りから個別支援計画書をWordで完成"
+  default_prompt: "面談記録と現在分かっている情報から、個別支援計画書の作成を始めてください。"
+
+policy:
+  allow_implicit_invocation: true
+

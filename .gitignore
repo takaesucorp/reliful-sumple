@@ -1,0 +1,6 @@
+# 個別支援計画書に使用する個人情報と完成文書
+/private-inputs/
+/private-outputs/
+/.DS_Store
+**/__pycache__/
+*.py[cod]
